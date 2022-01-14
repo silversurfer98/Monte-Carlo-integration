@@ -3,6 +3,8 @@
 
 /*  add libmysql in %PATH variable or else put libmysql.dll in programs directory to run
 * 
+* need to install sqlapic++
+* 
 * before that .................
 *  project --> properties --> VC++ directories --> include directories --> edit --> D:\c++_databse_connect\include
 * 
